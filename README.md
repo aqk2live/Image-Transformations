@@ -1,2 +1,2 @@
 # Image-Transformations
-Image transformations using numpy, opencv
+Image transformations using numpy, matplotlib, opencv
